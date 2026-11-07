@@ -1,0 +1,38 @@
+[
+  {
+    "name": "The Fourth Doctor",
+    "actor": "Tom Baker",
+    "species": "Time Lord",
+    "firstAppearance": 1974,
+    "homePlanet": "Gallifrey",
+    "description": "Den fjerde Doctor",
+    "isFavorite": true
+  },
+  {
+    "name": "The Tenth Doctor",
+    "actor": "David Tennant",
+    "species": "Time Lord",
+    "firstAppearance": 2005,
+    "homePlanet": "Gallifrey",
+    "description": "Den tiende Doctor",
+    "isFavorite": false
+  },
+  {
+    "name": "The Thirteenth Doctor",
+    "actor": "Jodie Whittaker",
+    "species": "Time Lord",
+    "firstAppearance": 2017,
+    "homePlanet": "Gallifrey",
+    "description": "Den trettende Doctor",
+    "isFavorite": false
+  },
+  {
+    "name": "The Master",
+    "actor": "Roger Delgado",
+    "species": "Time Lord",
+    "firstAppearance": 1971,
+    "homePlanet": "Gallifrey",
+    "description": "En tilbagevendende modstander",
+    "isFavorite": false
+  }
+]
